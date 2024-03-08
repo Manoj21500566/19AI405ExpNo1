@@ -233,5 +233,5 @@ print(agent.performance)
 ### OUTPUT:
 ![307233541-3ee79be6-9c1b-4231-a79f-37964cc7077d](https://github.com/Aravindsamy04/19AI405ExpNo1/assets/113497037/581e6ef1-22ec-4f91-8bca-54a468bec54e)
 
-RESULT:
+<h3>RESULT:</h3>
 Thus,the program for vaccum cleaner ai agent is executed successfully.
